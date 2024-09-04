@@ -1,1 +1,1 @@
-
+worker: pyrhon bot.py
